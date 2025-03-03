@@ -7,6 +7,9 @@ Sometimes, we need to read or search for information in a 40-50 page document, b
 
 In this example, the document is from a Thai novel called "Pornchiwan" (พรชีวัน), which has over 500 pages. Using Retrieval-Augmented Generation (RAG), we can improve the chatbot’s accuracy while reducing hallucinations, making it a more reliable tool for answering questions about the novel.
 
+<img width="643" alt="Screenshot 2568-03-03 at 16 24 51" src="https://github.com/user-attachments/assets/e27ed047-e6ed-44cc-9e80-09dbfda0056e" />
+
+
 ## **How It Works**
 
 The chatbot uses Large Language Models (LLMs) combined with RAG techniques to retrieve relevant information and generate human-like
