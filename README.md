@@ -1,17 +1,17 @@
 # Intern Project
-Creating a chatbot to answer questions about the Thai novel using RAG techniques.
+*Creating a chatbot to answer questions about the Thai novel using RAG techniques.*
 
-**Overview**
+##**Overview**
 
 Sometimes, we need to read or search for information in a 40-50 page document, but we don't have enough time to go through the entire document. This project aims to solve that problem by creating a chatbot that can search, summarize, and answer questions about a long document.
 
 In this example, the document is from a Thai novel called "Pornchiwan" (พรชีวัน), which has over 500 pages. Using Retrieval-Augmented Generation (RAG), we can improve the chatbot’s accuracy while reducing hallucinations, making it a more reliable tool for answering questions about the novel.
 
-**How It Works**
+##**How It Works**
 
 The chatbot uses Large Language Models (LLMs) combined with RAG techniques to retrieve relevant information and generate human-like
 
-**What is RAG?**
+##**What is RAG?**
 
 RAG (Retrieval-Augmented Generation) is a technique that enhances LLMs by:
 
