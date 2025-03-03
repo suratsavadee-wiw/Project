@@ -66,8 +66,8 @@ llm = AzureChatOpenAI(
 # COMMAND ----------
 
 # file_path = "/dbfs/FileStore/user/suratsavadee/พรชีวัน.pdf"
-# endpoint = "https://westus2.api.cognitive.microsoft.com/"
-# key = "7de5c4af11fa4f18aea13a45180f5cb4"
+# endpoint = "your-endpoint"
+# key = "your-key"
 
 # layout_loader = AzureAIDocumentIntelligenceLoader(
 #     api_endpoint=endpoint, 
@@ -82,8 +82,8 @@ llm = AzureChatOpenAI(
 
 #e
 file_path = "/dbfs/FileStore/user/suratsavadee/พรชีวัน.pdf"
-endpoint = "https://westus2.api.cognitive.microsoft.com/"
-key = "7de5c4af11fa4f18aea13a45180f5cb4"
+# endpoint = "your-endpoint"
+# key = "your-key"
 
 layout_loader = AzureAIDocumentIntelligenceLoader(
 api_endpoint=endpoint, 
