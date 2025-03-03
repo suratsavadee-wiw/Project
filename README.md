@@ -44,7 +44,9 @@ This approach prevents hallucinations and ensures responses are accurate and con
 - Generate response: The chatbot combines the retrieved text with the user’s query and generates an answer using an LLM.
 
 **Here's my sevice workflow :**
+
 <img width="581" alt="Screenshot 2568-03-03 at 15 51 06" src="https://github.com/user-attachments/assets/bf2c741e-c9be-4b53-8597-19044752d3ff" />
 
 **Demo: "Novel App" with sreamlit implement**
+
 <img width="493" alt="Screenshot 2568-03-03 at 15 52 55" src="https://github.com/user-attachments/assets/2c48a86d-69a5-46d1-be8f-af8a701a24aa" />
